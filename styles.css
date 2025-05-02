@@ -1,0 +1,294 @@
+body {
+
+background-color: #e3fff1;
+    
+    
+    
+font-family: verdana;
+
+color: #2F4F4F;
+}
+
+
+
+
+h2
+{
+
+width: 100%;
+
+
+
+}
+
+
+@media (min-width: 992px) {
+
+.navbar {
+
+background-color: #0c401d;
+
+color: #0c401d;
+
+
+}
+
+.navbar ul{
+
+float: right;
+
+position: relative;
+
+list-style: none;
+
+display: flex;
+
+font-family: Nunito;
+
+/* Reference: W3Schools. (n.d.) CSS gap Property. Available at: https://www.w3schools.com/cssref/css3_pr_gap.php (Accessed: 19 April 2025).*/
+
+gap: 80px;
+
+background-color: #24452f;
+
+text-decoration: none;
+
+color: #0c401d;
+
+
+}
+
+
+
+.navbar a
+
+{
+
+
+text-decoration: none;
+
+color: #ebfff4;
+
+
+
+
+}
+
+
+
+.navbar a:hover {
+color: #9aada3;
+    
+    
+font-family: 'Nunito', sans-serif;
+}
+
+
+footer{
+
+
+display: flex;
+flex-direction: column;
+ align-items: center;  
+ color: #0c4527;
+ text-decoration: none;     
+
+font-family: verdana;
+
+
+border: 2px solid  #4da175;
+padding: 10px;           
+margin-top: 20px;   
+    
+ 
+
+}
+
+
+footer a {
+
+text-decoration: none;
+
+color: #0d331f;
+
+background-color: 
+
+
+
+}
+
+
+
+
+
+footer:hover
+{
+
+
+background-color: #D4F5DD;
+
+
+
+}
+
+}
+.centeredbox
+{
+
+display: flex;
+
+flex-direction: column;
+
+align-items: center;
+
+justify-content: center;
+
+
+
+
+}
+
+
+
+.navbar ul: hover {
+
+
+background-color: #006922;
+
+
+}
+
+
+
+.introcontainer
+{
+
+display: flex;
+
+align-items: flex-start:
+
+padding: 20px;
+
+border: 5px solid;
+
+border-color: #065e22;
+
+padding: 15px;
+
+
+
+}
+
+/*Reference:
+W3Schools - CSS Image Transparency, W3Schools. Available at: https://www.w3schools.com/css/css_image_transparency.asp (Accessed: 28 April 2025).*/
+img 
+{
+
+opacity: 0.8;
+
+
+
+}
+
+
+.imgbox
+{
+
+height: 50%;
+
+max-width: 50%;
+
+
+}
+
+
+img:hover 
+{
+
+ opacity: 1;
+
+
+
+}
+
+
+
+.textbox 
+{
+
+flex: 1;
+
+
+}
+
+
+
+
+.header
+{
+
+background-color: #5c997175;
+
+font-family: arial;
+
+
+
+}
+
+
+.mainbody
+{
+
+
+background-color: #e6fff2;
+
+
+
+}
+
+
+
+
+section
+{
+
+display: flex;
+
+
+justify-content: right;
+
+float: right;
+
+
+
+}
+
+
+.logo 
+{
+
+display: flex;
+
+
+
+justify-content: center;
+
+
+
+}
+
+
+}
+
+
+
+head
+{
+
+background-color: ##5c9971;
+
+font-family: arial;
+
+
+
+}
